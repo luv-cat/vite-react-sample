@@ -42,3 +42,5 @@ out/
 !.storybook/
 
 public/
+
+storybook-static/
